@@ -1,0 +1,10 @@
+To access your new D1 Database in your Worker, add the following snippet to your configuration file:
+{
+  "d1_databases": [
+    {
+      "binding": "survey_db",
+      "database_name": "survey-db",
+      "database_id": "4bd9b80f-f202-4a04-8cd4-88221f31b788"
+    }
+  ]
+}
