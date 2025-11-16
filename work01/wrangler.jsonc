@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "work01",
+	"name": "survey-test",
 	"main": "src/index.js",
 	"compatibility_date": "2025-11-13",
 	"observability": {
